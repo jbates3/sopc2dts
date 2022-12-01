@@ -1,0 +1,6 @@
+<SOPC2DTS_COMPONENTLIB vendor="cast">
+	<S2DComponent classname="hsdlc_apb_top" group="hdlc" compatDevice="hdlc">
+		<compatible name="cast,hdlc"></compatible>
+	<parameter dtsName="regstep"></parameter>
+	<parameter dtsName="clock-frequency"></parameter></S2DComponent>
+</SOPC2DTS_COMPONENTLIB>
